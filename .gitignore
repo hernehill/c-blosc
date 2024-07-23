@@ -2,3 +2,8 @@ bench/bench
 build/
 
 *.sw?
+
+# HH
+_rez_build
+.vscode
+.idea
